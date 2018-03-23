@@ -1,1 +1,1 @@
-MoonRiver World!
+Echo newline in Bash prints literal \n - Stack Overflow
